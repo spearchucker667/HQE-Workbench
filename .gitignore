@@ -283,3 +283,4 @@ _site/
 
 # GitHub App credentials
 gha-creds-*.json
+mcp-server/prompts/server/resources/prompts/guidance/.DS_Store
